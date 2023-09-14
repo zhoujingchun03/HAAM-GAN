@@ -1,7 +1,6 @@
 # HAAM-GAN
-```
-This Repo includes the testing codes of our HAAM-GAN. (PyTorch Version).
 
+This Repo includes the testing codes of our HAAM-GAN. (PyTorch Version).
 
 If you use our code, please cite our paper and hit the star at the top-right corner. Thanks!
 
@@ -12,7 +11,7 @@ Python 3.7, Pytorch 1.11.0.
 ```
 
 
-## Testing
+# Testing
 ```
 1. Download the code
 2. Put your testing images in the "data/input" folder
@@ -25,7 +24,7 @@ Note that the PSNR_SSIM_UIQM.py provide the metrics code adopted our paper.
 The validation data are in the "gt" folder (underwater images), "data/gt" folder (grount truth images).
 ```
 
-## Bibtex
+# Bibtex
 
 ```
 @article{HAAMGAN,
@@ -38,9 +37,9 @@ The validation data are in the "gt" folder (underwater images), "data/gt" folder
   publisher={Elsevier}
 }
 ```
-##  License
+#  License
 The code is made available for academic research purpose only. This project is open sourced under MIT license.
 
-## Contact
+# Contact
 If you have any questions, please contact Jingchun Zhou at zhoujingchun03@qq.com.
 
