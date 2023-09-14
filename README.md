@@ -21,7 +21,7 @@ Note that the PSNR_SSIM_UIQM.py provide the metrics code adopted our paper.
 ```
 
 ```
-The validation data are in the "gt" folder (underwater images), "data/gt" folder (grount truth images).
+The validation data are in the "data/input" folder (underwater images), "data/gt" folder (grount truth images).
 ```
 
 # Bibtex
