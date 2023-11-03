@@ -17,7 +17,7 @@ Python 3.7, Pytorch 1.11.0.
 2. Put your testing images in the "data/input" folder
 3. Python test.py
 4. Find the result in "data/ouput" folder
-5. You can find all the pre-trained model in 
+5. You can find all the pre-trained model in https://drive.google.com/drive/folders/1h4OI-DIY0vgrjM2QrQXAyV3041xN8aHr?usp=sharing
 Note that the PSNR_SSIM_UIQM.py provide the metrics code adopted our paper.
 ```
 
